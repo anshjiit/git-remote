@@ -2,3 +2,4 @@ first line
 second line
 third ljne-user2
 fourth line -user1
+fourth line -user2
